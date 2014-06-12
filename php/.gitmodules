@@ -1,0 +1,6 @@
+[submodule "themes/feedly"]
+	path = themes/feedly
+	url = git://github.com/levito/tt-rss-feedly-theme.git
+[submodule "plugins/fever"]
+	path = plugins/fever
+	url = https://github.com/dasmurphy/tinytinyrss-fever-plugin.git
